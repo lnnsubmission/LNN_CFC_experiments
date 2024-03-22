@@ -23,7 +23,7 @@ Then, you can run the Jupyter notebook or the Python script as per your requirem
 
 
 ## LTC model in action
-<video width="800" height="450" autoplay muted loop>
-    <source src="l2024-03-22 19-22-08.mkv" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+
+https://github.com/ecmlpkddlnnsubmission/LNN_CFC_behaviour_cloning/assets/163811878/90e212d5-362d-48b8-a73c-edb2271d5caa
+
+

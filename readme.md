@@ -20,3 +20,10 @@ pip install -r requirements.txt
 ```
 
 Then, you can run the Jupyter notebook or the Python script as per your requirement.
+
+
+## LTC model in action
+<video width="800" height="450" autoplay muted loop>
+    <source src="ltc-atari-breakout.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>

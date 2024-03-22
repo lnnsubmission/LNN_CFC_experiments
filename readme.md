@@ -24,6 +24,6 @@ Then, you can run the Jupyter notebook or the Python script as per your requirem
 
 ## LTC model in action
 <video width="800" height="450" autoplay muted loop>
-    <source src="ltc-atari-breakout.mp4" type="video/mp4">
+    <source src="l2024-03-22 19-22-08.mkv" type="video/mp4">
     Your browser does not support the video tag.
 </video>
